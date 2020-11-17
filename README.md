@@ -1,1 +1,0 @@
-# micro-front-end-POC
